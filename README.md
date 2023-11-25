@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anugrah Rk</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p><img align="center" src="https://user-images.githubusercontent.com/64751167/91557308-e1509980-e951-11ea-9b57-695796bd82cf.gif"</p>
+  <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anugrah&label=Profile%20views&color=0e75b6&style=flat" alt="anugrah" /> </p>
 
@@ -19,4 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anugrah&show_icons=true&locale=en" alt="anugrah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anugrah&" alt="anugrah" /></p>
-<p><img align="center" src="https://user-images.githubusercontent.com/64751167/91557308-e1509980-e951-11ea-9b57-695796bd82cf.gif"</p>
+
