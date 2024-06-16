@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <!--<p><img align="center" src="https://user-images.githubusercontent.com/64751167/91557308-e1509980-e951-11ea-9b57-695796bd82cf.gif"</p>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anugrah&label=Profile%20views&color=0e75b6&style=flat" alt="anugrah" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=anugrah&label=Profile%20views&color=0e75b6&style=flat" alt="anugrah" /> </p>-->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
