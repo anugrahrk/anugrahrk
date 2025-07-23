@@ -1,13 +1,8 @@
-[![An image of @anugrahrk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anugrahrk)](https://holopin.io/@anugrahrk)
-[![](https://visitcount.itsvg.in/api?id=anugrahrk&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <h1 align="center">Hi 👋, I'm Anugrah Rk</h1>
 
 <h3 align="center">A full stack developer and passionate frontend enthusiast from India.</h3>
 
 ## 🚀 Proof of Work
-
-Check out the **best of my projects** here 👉 [Anugrah RK – Proof of Work](https://profuse-name-f33.notion.site/)
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 
@@ -17,14 +12,14 @@ Check out the **best of my projects** here 👉 [Anugrah RK – Proof of Work](h
 
 - 💬 Ask me about **Frontend, React, Tailwind, and building full-stack apps with MERN**
 
-- 📫 How to reach me **anugrah.rk03@gmail.com**
+- 📫 How to reach me **anugrahrk6@gmail.com**
 
 - ⚡ Fun fact **I enjoy creating aesthetic UI and tweaking micro-interactions for fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anugrahrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anugrah-rk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anugrahrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anugrahrk" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/anugrahrk6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anugrahrk" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/anugra8hbg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anugrah_rk" height="30" width="40" /></a>
 </p>
 
