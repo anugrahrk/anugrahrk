@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 
-- 🌱 I’m currently learning **Zustand, Prisma and AI integration with React**
+- 🌱 I’m currently learning **Jotai, Prisma and AI integration with React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anugrahrk](https://github.com/anugrahrk)
 
